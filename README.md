@@ -23,5 +23,12 @@ Our broad selection of beam expansion systems and LINOS F-Theta lenses meets eve
 
 This is a simple web project, deployment can be on any web server or even local file system.
 
+Here is for staged file part:
+And I'm adding some words to compare the difference between local working directory and staged file.
+
+Here is for the local part.
+dakgjlkjfalgkd;alfkalkjal
+
+
 ## How To Contribute
 
